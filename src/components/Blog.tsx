@@ -23,7 +23,7 @@ const posts = [
     excerpt: "Estratégias avançadas de UX para transformar visitantes em clientes fiéis.",
     date: "05 Nov 2024",
     category: "E-commerce",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?w=800&q=80",
+    image: "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&w=800&q=80",
     color: "text-green-400"
   }
 ];
