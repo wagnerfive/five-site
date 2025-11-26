@@ -41,9 +41,6 @@ export const Blog = () => {
               Conteúdo aprofundado sobre o universo digital.
             </p>
           </div>
-          <Button variant="outline" className="hidden md:flex glass-card border-white/10 text-white hover:bg-white/10 rounded-xl">
-            Ver Todos os Artigos
-          </Button>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -94,11 +91,6 @@ export const Blog = () => {
           ))}
         </div>
 
-        <div className="text-center mt-12 md:hidden">
-          <Button variant="outline" className="glass-card border-white/10 text-white hover:bg-white/10 rounded-xl w-full">
-            Ver Todos os Artigos
-          </Button>
-        </div>
       </div>
     </section>
   );
