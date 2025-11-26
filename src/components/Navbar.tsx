@@ -73,7 +73,7 @@ export const Navbar = () => {
 
           {/* Mobile Menu Overlay */}
           {mobileMenuOpen && (
-            <div className="fixed inset-0 bg-background/95 backdrop-blur-xl z-40 flex flex-col items-center justify-center animate-fade-in">
+            <div className="fixed inset-0 bg-background/95 backdrop-blur-xl z-50 flex flex-col items-center justify-center animate-fade-in">
               <div className="flex flex-col gap-8 text-center">
                 {navLinks.map((link) => (
                   <a
